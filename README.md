@@ -1,210 +1,189 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20There!%20I'm%20Shalini%20B%20👋&fontSize=42&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20|%20Python%20|%20SQL%20|%20Data%20Visualization&descAlignY=58&descAlign=50" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shalini+B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring+Data+Analyst+%7C+Python+%7C+SQL+%7C+Data+Visualization&descAlignY=62&descSize=16)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Data+Analytics;Turning+Data+into+Actionable+Insights;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=shalinibaskaran05&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-
-<a href="https://linkedin.com/in/shalini-b-651189409">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:shalinibaskaran.05@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 <a href="https://github.com/shalinibaskaran05">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Raw+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Pandas+%7C+Power+BI+%7C+Streamlit;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
 
----
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### 🧠 About Me
-
-- 🎓 B.Sc. Computer Science graduate from **SRM Institute of Science & Technology**, Chennai
-- 📊 Passionate about transforming raw data into **actionable business insights**
-- 🐍 Hands-on experience in **Python, SQL, EDA, Data Cleaning, and Data Visualization**
-- 📈 Skilled in building **interactive dashboards** using Power BI, Streamlit, and Excel
-- 🤖 Familiar with **Machine Learning** algorithms like Linear/Logistic Regression, Decision Tree, and Random Forest
-- 🌱 Currently seeking **Data Analytics Apprenticeship** opportunities
-- 📍 Based in Chennai, Tamil Nadu | Willing to relocate to **Bengaluru, Hyderabad, Gurgaon, or Mumbai**
-- 💬 Fluent in **English & Tamil**
-
----
-
-### 💻 About Me — In Code
+## 💻 About Me
 
 ```python
 class DataAnalyst:
     def __init__(self):
         self.name = "Shalini B"
-        self.role = "Aspiring Data Analyst"
         self.location = "Chennai, Tamil Nadu, India"
-        self.languages_spoken = ["English", "Tamil"]
-        self.tech_stack = {
-            "languages": ["Python", "SQL"],
-            "libraries": ["Pandas", "NumPy", "Matplotlib", "Plotly", "Scikit-learn"],
-            "tools": ["Power BI", "Streamlit", "Excel", "Git", "GitHub", "Jupyter Notebook"]
-        }
-        self.currently_seeking = "Data Analytics Apprenticeship"
+        self.degree = "B.Sc. Computer Science, SRM Institute of Science & Technology"
+        self.role = "Aspiring Data Analyst"
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's turn data into decisions. 🚀")
+        self.stack = [
+            "Python", "SQL", "Pandas", "NumPy",
+            "Matplotlib", "Plotly", "Scikit-learn",
+            "Power BI", "Streamlit", "Excel"
+        ]
+
+        self.currently_learning = [
+            "Advanced SQL & Query Optimization",
+            "Power BI (DAX & Advanced Modeling)",
+            "Applied Machine Learning"
+        ]
+
+        self.fun_fact = "I love turning messy spreadsheets into clean, actionable stories."
+        self.looking_for = "Data Analytics Apprenticeship opportunities"
+
+    def motto(self):
+        return "Data becomes powerful only when it drives a decision."
 
 
-shalini = DataAnalyst()
-shalini.say_hi()
+me = DataAnalyst()
+print(me.motto())
 ```
 
----
+<br clear="right"/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Programming Languages**
+**Languages**
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+**Libraries & Frameworks**
+<div>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</div>
 
-**Data Analytics & Libraries**
+**Cloud & DevOps**
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+**Databases**
+<div>
+  <img src="https://img.shields.io/badge/SQL_Databases-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</div>
 
-**Machine Learning**
+**Tools**
+<div>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Linear%20Regression-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Logistic%20Regression-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Decision%20Tree-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Random%20Forest-00D9FF?style=for-the-badge"/>
-</p>
+## 📊 GitHub Stats
 
-**Tools & Platforms**
+<div align="center">
+  <a href="https://github.com/shalinibaskaran05">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=shalinibaskaran05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  </a>
+  <a href="https://github.com/shalinibaskaran05">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinibaskaran05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  </a>
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shalinibaskaran05&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalinibaskaran05&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
 
-### 📌 Featured Projects
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shalinibaskaran05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+</div>
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🧑‍💼 **[Employee Attrition Analysis & Prediction](https://github.com/shalinibaskaran05)** | Predictive analytics solution using HR data to identify attrition patterns, with data cleaning, EDA, feature engineering, and a Streamlit app for prediction and visualization. | `Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit` |
-| 🛒 **[Retail Intelligence Dashboard](https://github.com/shalinibaskaran05)** | Analyzed retail sales data to uncover trends and customer behavior, with interactive Power BI & Streamlit dashboards and Excel reports for KPI tracking. | `Python` `SQL` `Pandas` `Power BI` `Streamlit` `Excel` `Plotly` |
+## 💼 Work Experience
 
----
+<details>
+<summary><b>Python for Data Science Intern @ Inspire Softech Solutions</b> — May 2025 – June 2025</summary>
+<br>
 
-### 💼 Experience
+> `Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit` `Jupyter Notebook`
 
-**Data Analytics Intern** — *Retech Solutions* `May 2024 – June 2024`
-- Analyzed business datasets to identify trends and actionable insights
-- Cleaned, transformed, and validated data using Python, Pandas, and SQL
-- Designed interactive dashboards to visualize KPIs and performance metrics
-- Automated reporting workflows with the team
-
-**Python for Data Science Intern** — *Inspire Softech Solutions* `May 2025 – June 2025`
 - Collected, cleaned, and preprocessed real-world datasets using Python, Pandas, and NumPy
-- Performed EDA to uncover trends and data quality issues
-- Built and evaluated machine learning models using Scikit-learn
+- Performed Exploratory Data Analysis (EDA) to uncover trends and data quality issues
+- Built and evaluated machine learning models using Scikit-learn, applying feature engineering to improve performance
+- Collaborated with the team on data science projects and documented analytical findings
 
----
+</details>
 
-### 🎓 Education
+<details>
+<summary><b>Data Analytics Intern @ Retech Solutions</b> — May 2024 – June 2024</summary>
+<br>
 
-**B.Sc. Computer Science**
-SRM Institute of Science & Technology (Deemed to be University), Chennai — *Graduated June 2026*
+> `Python` `SQL` `Pandas` `NumPy` `Plotly` `Streamlit` `Microsoft Excel`
 
-**Higher Secondary Education**
-Green Valley Matriculation Higher Secondary School, Chennai — *2020 – 2023*
+- Analyzed business datasets to identify trends, patterns, and actionable insights for decision-making
+- Cleaned, transformed, and validated data using Python, Pandas, and SQL to improve data quality
+- Designed interactive dashboards and business reports to visualize KPIs and performance metrics
+- Collaborated with the team to automate reporting workflows and presented findings through clear visualizations
 
----
+</details>
 
-### 📚 Currently Learning
-
-<p>
-<img src="https://img.shields.io/badge/Advanced%20SQL-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dashboard%20Development-00D9FF?style=for-the-badge"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shalinibaskaran05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinibaskaran05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%"/>
-
-<img src="https://streak-stats.demolab.com?user=shalinibaskaran05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shalinibaskaran05&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+| Project | Stack | Highlights |
+|---|---|---|
+| **[Employee Attrition Analysis & Prediction](https://github.com/shalinibaskaran05)** | Python, Pandas, NumPy, Scikit-learn, Streamlit | Predictive analytics solution on HR data with multiple trained classification models and an interactive Streamlit app for live prediction & visualization |
+| **[Retail Intelligence Dashboard](https://github.com/shalinibaskaran05)** | Python, SQL, Pandas, Power BI, Streamlit, Excel, Plotly | End-to-end retail analytics — cleaned & validated sales data, built interactive Power BI/Streamlit dashboards, and delivered KPI reports for business decision-making |
 
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shalinibaskaran05&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
----
-
-### 📬 Contact Me
+## 🏆 Achievements
 
 <div align="center">
 
-<a href="mailto:shalinibaskaran.05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/shalini-b-651189409">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/shalinibaskaran05">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-📞 +91 95660 16615 &nbsp;|&nbsp; 📍 Chennai, Tamil Nadu, India
+| | Achievement | Details |
+|---|---|---|
+| 💼 | Internships Completed | 2 Data Analytics / Data Science internships (Retech Solutions, Inspire Softech Solutions) |
+| 📊 | Projects Delivered | Built 2 end-to-end analytics projects with deployed Streamlit apps and BI dashboards |
+| 🎓 | Degree Completed | B.Sc. Computer Science, graduated June 2026 |
+| 🌍 | Open to Relocation | Bengaluru, Hyderabad, Gurgaon, or Mumbai |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+## 🎓 Education
 
-</div>## Hi there 👋
+<div align="center">
 
-<!--
-**shalinibaskaran05/shalinibaskaran05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Sc. Computer Science | SRM Institute of Science & Technology (Deemed University), Chennai | 2026 | — |
+| Higher Secondary Education | Green Valley Matriculation Higher Secondary School, Chennai | 2020–2023 | 60% |
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+```text
+📈 Data Analytics
+ ├── Advanced SQL & Query Optimization
+ ├── Power BI (DAX & Advanced Data Modeling)
+ └── Applied Machine Learning
+```
+
+<div align="center">
+
+📫 **Reach me:** shalinibaskaran.05@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/shalini-b-651189409) &nbsp;|&nbsp; [GitHub](https://github.com/shalinibaskaran05)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shalinibaskaran05&color=70a5fd&style=flat-square)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+
+</div>
