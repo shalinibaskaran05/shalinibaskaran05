@@ -14,7 +14,7 @@
 <a href="https://github.com/shalinibaskaran05"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000&color=000000&border=1px solid 39FF14"/></a>
 <a href="https://linkedin.com/in/shalini-b-651189409"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000"/></a>
 <a href="mailto:shalinibaskaran.05@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=39FF14&labelColor=000000"/></a>
+
 
 <img src="https://komarev.com/ghpvc/?username=shalinibaskaran05&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=000000"/>
 
